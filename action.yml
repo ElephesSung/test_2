@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator: A confused llama in a tuxedo tried to order spaghetti at a gas station, but ended up debating politics with a vending machine instead."
 author: "Your Name" 
 description: "Generate a feed for a podcast from a YAML file"
 runs:
