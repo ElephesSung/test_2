@@ -2,9 +2,9 @@ name: "Podcast Generator"
 author: "Your Name" 
 description: "Generate a feed for a podcast from a YAML file"
 runs:
-  using: "docker"
-  image: "Dockerfile"
-
+  using: docker
+  image: Dockerfile
+  
 branding:
   icon: "git-branch"
   color: "red"
